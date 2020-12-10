@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YCfLy0S7Rp0LU2jz9a06NmXiKz1c35Rd90CXgcpE+XVGdn+ZNoXN2TuwiMAMLVlxQU9VujDkVZIi4jOqnqvbIQ==",
+  "success": true,
+  "projectFilePath": "C:\\ElevenFiftyProjects\\DotNetProjects\\CSharpFundamentals\\06_RepositoryPattern_Repo\\06_RepositoryPattern_Repo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caleb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Caleb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
